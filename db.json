@@ -1,0 +1,19 @@
+{
+    "tasks": [
+      {
+        "id": "18db",
+        "title": "Work on more interesting projects",
+        "isCompleted": false
+      },
+      {
+        "id": "ec43",
+        "title": "buid a to do lis app using angular",
+        "isCompleted": true
+      },
+      {
+        "id": "5126",
+        "title": "Host the to do list app",
+        "isCompleted": false
+      }
+    ]
+  }
